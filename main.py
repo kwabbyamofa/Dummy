@@ -1,3 +1,3 @@
 print('Hello World')
-a = input('Como te llamas': )
+a = 3
 print(a)
